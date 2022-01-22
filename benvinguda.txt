@@ -1,3 +1,5 @@
 Javier Garcia Pardo
+(A) Benvinguda a la branca 01 Xavi
 (B) Modificació 01 Main Xavi
 (D) Modificació 02 Main Xavi
+(E) Afegim imatge a branca01
